@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_football"
+        android:title="@string/football" />
+    <item
+        android:id="@+id/entertainmentFragment"
+        android:icon="@drawable/ic_entertainment"
+        android:title="@string/entertainment" />
+
+    <item
+        android:id="@+id/technologyFragment"
+        android:icon="@drawable/ic_technology"
+        android:title="@string/technology" />
+
+
+</menu>
